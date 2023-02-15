@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="755c005547416110b7a5379bd36d439f" sys_domain="global" table="x_464615_link_to_0_aps_table" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_464615_link_to_0_aps_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 03:14:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>755c005547416110b7a5379bd36d439f</sys_id>
+            <sys_name>x_464615_link_to_0_aps_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Link to GitHub test" source="x_464615_link_to_0">7d0c481547416110b7a5379bd36d430d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Link to GitHub test">7d0c481547416110b7a5379bd36d430d</sys_scope>
+            <sys_update_name>sys_ui_section_755c005547416110b7a5379bd36d439f</sys_update_name>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

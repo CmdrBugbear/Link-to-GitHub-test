@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_464615_link_to_0_aps_table</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 03:13:56</sys_created_on>
+        <sys_id>f53c4c1547416110b7a5379bd36d4362</sys_id>
+        <sys_name>x_464615_link_to_0_aps_table</sys_name>
+        <sys_package display_value="Link to GitHub test" source="x_464615_link_to_0">7d0c481547416110b7a5379bd36d430d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Link to GitHub test">7d0c481547416110b7a5379bd36d430d</sys_scope>
+        <sys_update_name>sys_security_acl_f53c4c1547416110b7a5379bd36d4362</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

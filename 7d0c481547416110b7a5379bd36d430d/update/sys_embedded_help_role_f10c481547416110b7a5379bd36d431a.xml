@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_464615_link_to_0.user" name="x_464615_link_to_0.user">750c481547416110b7a5379bd36d4319</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-15 03:13:07</sys_created_on>
+        <sys_id>f10c481547416110b7a5379bd36d431a</sys_id>
+        <sys_name>750c481547416110b7a5379bd36d4319</sys_name>
+        <sys_package display_value="Link to GitHub test" source="x_464615_link_to_0">7d0c481547416110b7a5379bd36d430d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Link to GitHub test">7d0c481547416110b7a5379bd36d430d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f10c481547416110b7a5379bd36d431a</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

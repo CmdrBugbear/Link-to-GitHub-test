@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="APS table" language="en" table="x_464615_link_to_0_aps_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>APS table</label>
+            <language>en</language>
+            <name>x_464615_link_to_0_aps_table</name>
+            <plural>APS tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-15 03:13:52</sys_created_on>
+            <sys_name>APS table</sys_name>
+            <sys_package display_value="Link to GitHub test" source="x_464615_link_to_0">7d0c481547416110b7a5379bd36d430d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Link to GitHub test">7d0c481547416110b7a5379bd36d430d</sys_scope>
+            <sys_update_name>sys_documentation_x_464615_link_to_0_aps_table__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
